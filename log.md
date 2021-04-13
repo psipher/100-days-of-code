@@ -1,9 +1,9 @@
 # 100 Days Of Python - Log
 
 ### Day 0: April 13, 2021 (Strings)
-String Slicing,String Function
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Today's Progress**: String Slicing,String Function, List and tupples (CH 3 and 4 Complete
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
