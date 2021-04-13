@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Python - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: April 13, 2021 (Strings)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
