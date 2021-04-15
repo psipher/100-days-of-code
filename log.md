@@ -19,7 +19,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 2: April 14, (Sets,Conditional Statements)
+### Day 2: April 14, (Sets,Conditional Statements,Loops)
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
