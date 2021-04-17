@@ -25,3 +25,11 @@
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
+### Day 3: April 15, (AWS developer associate prep,functions)
+
+**Today's Progress**: Got 60 percent in exam
+
+**Thoughts** will be starting again
+
+### Day 4: April 14, (Created Stone paper Scissor Game)
+**Thoughts** Some bugs,needs to check logic for that
