@@ -31,5 +31,10 @@
 
 **Thoughts** will be starting again
 
-### Day 4: April 14, (Created Stone paper Scissor Game)
+### Day 4: April 16, --
+
+### Day 5: April 17, (Created Stone paper Scissor Game)
 **Thoughts** Some bugs,needs to check logic for that
+
+### Day 6: April 18, (Worked on input ouput operations)
+**Thoughts** Worked on opeartions.
