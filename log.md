@@ -38,3 +38,6 @@
 
 ### Day 6: April 18, (Worked on input ouput operations)
 **Thoughts** Worked on opeartions.
+
+### Day 7: April 19, (Worked on oops concepts)
+
