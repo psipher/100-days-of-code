@@ -41,3 +41,6 @@
 
 ### Day 7: April 19, (Worked on oops concepts)
 
+### Day 8: April 20, (Studied self and static , creating functions in Classes)
+
+
