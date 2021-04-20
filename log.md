@@ -43,4 +43,6 @@
 
 ### Day 8: April 20, (Studied self and static , creating functions in Classes)
 
+### Day 9: APril 21 , completed 100 slides of aws dev assoiciate, completed Ch 10 oops
+
 
