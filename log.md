@@ -45,4 +45,7 @@
 
 ### Day 9: APril 21 , completed 100 slides of aws dev assoiciate, completed Ch 10 oops
 
+### Day 10: APril 22 , completed 200 slides of aws dev assoiciate, gave aws test paper, inhertence is being continued
+
+
 
