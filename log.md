@@ -51,6 +51,7 @@
 ### Day 11: APril 23 , inheritence complted,worked super function, struck at operator overloading
 ### Day 11: APril 24 , Read the concepts again
 ### Day 11: APril 25 -
-### Day 11: APril 26
+### Day 11: APril 26 - worked on oops eamples
+**Thoughts** Speed slow, harder to understand these examples
 
 
