@@ -48,10 +48,11 @@
 ### Day 10: APril 22 , completed 200 slides of aws dev assoiciate, gave aws test paper, inhertence is being continued
 
 
-### Day 11: APril 23 , inheritence complted,worked super function, struck at operator overloading
-### Day 11: APril 24 , Read the concepts again
-### Day 11: APril 25 -
-### Day 11: APril 26 - worked on oops eamples
+### Day 12: APril 23 , inheritence complted,worked super function, struck at operator overloading
+### Day 13: APril 24 , Read the concepts again
+### Day 14: APril 25 -
+### Day 15: APril 26 - worked on oops eamples
 **Thoughts** Speed slow, harder to understand these examples
+### Day 16: APril 27 - Worked on getting data from dynamo db using lambda function created in python, configured apigateway.
 
 
