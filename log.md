@@ -54,7 +54,7 @@
 ### Day 15: APril 26 - worked on oops eamples
 **Thoughts** Speed slow, harder to understand these examples
 ### Day 16: APril 27 - Worked on getting data from dynamo db using lambda function created in python, configured apigateway.
-### Day 17: APril 27 - Finished the dynamo and lambda code task.
+### Day 17: APril 28 - Finished the dynamo and lambda code task.
 
 
 
