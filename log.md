@@ -55,6 +55,7 @@
 **Thoughts** Speed slow, harder to understand these examples
 ### Day 16: APril 27 - Worked on getting data from dynamo db using lambda function created in python, configured apigateway.
 ### Day 17: APril 28 - Finished the dynamo and lambda code task. Revised the previous topics
-
+### Day 18: APril 29 ---
+### Day 19: April 30 - Recreated the whole lambda code, better code optimisation, understanding,use of functions.
 
 
